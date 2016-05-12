@@ -30,6 +30,7 @@ class PMPro_Customizations {
 				'size'     => 5,
 				'required' => true,
 				'profile'  => true,
+				'memberslistcsv' => true,
 			) );
 
 		$fields[] = new \PMProRH_Field(
